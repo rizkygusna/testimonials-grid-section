@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +8,23 @@
 
 body {
   background-color: hsl(210, 46%, 95%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h2,
+h3,
+h4,
+p {
+  color: hsl(0, 0%, 81%);
+}
+
+p {
+  font-size: 13px;
+  opacity: 70%;
+}
+
+h4 {
+  opacity: 50%;
 }
 
 .attribution {

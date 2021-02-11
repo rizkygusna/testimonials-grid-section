@@ -18,8 +18,8 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- Light gray: hsl(0, 0%, 81%)
-- Light grayish blue: hsl(210, 46%, 95%)
+- Font color: Light gray: hsl(0, 0%, 81%)
+- Background color: Light grayish blue: hsl(210, 46%, 95%)
 
 Note for text colors:
 
