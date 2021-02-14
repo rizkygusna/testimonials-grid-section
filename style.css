@@ -28,8 +28,17 @@ p {
   line-height: 1.5em;
 }
 
+h3 {
+  font-size: 1em;
+}
+
 h4 {
+  font-size: 13px;
   opacity: 50%;
+}
+
+.dark {
+  color: #48556a;
 }
 
 .grid-container {
@@ -50,7 +59,7 @@ h4 {
 }
 
 .profile-image {
-  width: 16%;
+  width: 13%;
   border-radius: 50%;
 }
 
