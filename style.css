@@ -42,7 +42,7 @@ h4 {
 }
 
 .grid-container {
-  margin-top: 8vh;
+  margin: 8vh 0;
   display: grid;
   grid-template-columns: 330px;
   row-gap: 20px;
@@ -75,6 +75,7 @@ h4 {
 .item-1 {
   background-color: #7541c8;
   grid-row: 1;
+  background: #7541c8 no-repeat right 10% top/35% url('./images/bg-pattern-quotation.svg');
 }
 .item-2 {
   background-color: #48556a;
